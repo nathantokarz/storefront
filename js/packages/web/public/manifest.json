@@ -1,0 +1,25 @@
+{
+  "name": "Dino Kingz Auction House",
+  "short_name": "Dino Kingz",
+  "display": "standalone",
+  "start_url": "./",
+  "theme_color": "#002140",
+  "background_color": "#001529",
+  "icons": [
+    {
+      "src": "/jellyicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/jellyicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/jellyicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ]
+}
